@@ -114,9 +114,7 @@ A-Eye/
 └── README.md
 ```
 
-## Contributing
-
-Team Members:
+## Contributors
 
 * **Gokulan** – Memory recall - RAG and AI Model developer
 * **Srikanth** – Module Integration, Hardware Development
@@ -124,13 +122,3 @@ Team Members:
 * **Shyaam kumar** – Internal Navigation and Scene description
 * **Sendhanee** – Face Recognition and Conversation Assistant
 * **Nithian** – Computer Vision Analytics
-
-## License
-
-MIT License – Feel free to use and contribute with proper attribution.
-
-## Contact
-
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-* 📞 Phone: +91-XXXXXXXXXX
-* GitHub: [github.com/yourusername](https://github.com/yourusername)
