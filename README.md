@@ -118,8 +118,12 @@ A-Eye/
 
 Team Members:
 
-* **Gokulan** – Module Integration, Hardware Development
-* \[Add Other Members Here If Any]
+* **Gokulan** – Memory recall - RAG and AI Model developer
+* **Srikanth** – Module Integration, Hardware Development
+* **Haresh** – Voice Module and Bot Conversation
+* **Shyaam kumar** – Internal Navigation and Scene description
+* **Sendhanee** – Face Recognition and Conversation Assistant
+* **Nithian** – Computer Vision Analytics
 
 ## License
 
